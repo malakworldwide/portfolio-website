@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <h1> الموقع تحت الإنشاء</h1>
   </div>
 </template>
